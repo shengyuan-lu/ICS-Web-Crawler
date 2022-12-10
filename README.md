@@ -13,7 +13,7 @@ Web Crawler For UCI ICS Websites
 - Qinyu Chen
 
 ## Stats
-### Subdomians crawled:
+### Subdomains crawled:
 
     *.ics.uci.edu/*
     *.cs.uci.edu/*
