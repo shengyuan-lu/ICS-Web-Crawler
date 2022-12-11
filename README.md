@@ -1,5 +1,4 @@
-## Name
-Web Crawler For UCI ICS Websites
+# Web Crawler For UCI ICS Websites
 
 ## Capabilities
 - Find unique pages on the UC Irvine School of Computer Science server.
@@ -7,10 +6,6 @@ Web Crawler For UCI ICS Websites
 - Ignore common stop words such as a, the
 - Find a list of top 50 most common words
 - Count subdomains under ics.uci.edu
-
-## Contributors
-- Shengyuan Lu
-- Qinyu Chen
 
 ## Stats
 ### Subdomains crawled:
@@ -163,3 +158,7 @@ Web Crawler For UCI ICS Websites
 > - wiki.ics.uci.edu, 1
 > - www-db.ics.uci.edu, 12
 > - xtune.ics.uci.edu, 6
+
+## Contributors
+- Shengyuan Lu
+- Qinyu Chen
