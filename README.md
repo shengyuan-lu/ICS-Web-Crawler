@@ -1,4 +1,5 @@
-# Web Crawler For UCI ICS Websites
+# ICS-Web-Crawler
+Web Crawler For UCI ICS Websites
 
 ## Capabilities
 - Find unique pages on the UC Irvine School of Computer Science server.
