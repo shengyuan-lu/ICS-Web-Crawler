@@ -8,6 +8,10 @@ Web Crawler For UCI ICS Websites
 - Find a list of top 50 most common words
 - Count subdomains under ics.uci.edu
 
+## Technologies
+- Python
+- BeautifulSoup
+
 ## Stats
 ### Subdomains crawled:
 
